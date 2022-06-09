@@ -11,7 +11,7 @@ I. <strong>Idea:</strong>
 
   The picture below demonstrates the activities on this application. There are three objects and five activities here:
   
-  <img src="materials/smart-contract-activities.png" alt="1" width = auto height = auto>
+  <img src="smart-contract-activities.PNG" alt="1" width = auto height = auto>
   
   * Web-based application which is the interface to customer is built by NodeJS
   * Trader address is the real trader account which deposit and withdraw from smart contract
