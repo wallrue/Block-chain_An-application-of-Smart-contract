@@ -28,7 +28,7 @@ II. <strong>How to run the application</strong>
 
   1. Firstly, we should install NodeJS to run an application wrote by [NodeJS](https://nodejs.org/en/).  
   2. Secondly, we clone the reposity from github. Then, we open cmd window in working project (which contained package.json) and type <ins>npm install</ins> to install node_modules mentioned in json file.
-  3. Thirdly, installing truffle by typing: <ins>npm install -g truffle</ins>. <br>After finishing, we will have truffle files in C:\Users\lemin\AppData\Roaming\npm
+  3. Thirdly, installing truffle by typing: <ins>npm install -g truffle</ins>. <br>After finishing, we will have truffle files in C:\Users\...\AppData\Roaming\npm
   4. Next, we open Ganade before typing <ins>truffle test</ins>. After that, we type <ins>truffle migrate --reset</ins> to complete building the contract. <br>If it is successful, a json file will appear on folder /build/contracts/
   5. Finally, we type <ins>npm run dev</ins> to run the application with smart contract. Then, we log in the metamask and done.
 
