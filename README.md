@@ -1,5 +1,4 @@
 # NTUST_Big-data_Final-project: Application of smart contract on Forex trading
-## Final Project of Block Chain course: Application of smart contract on Forex trading
 
 ## Introduction
 
