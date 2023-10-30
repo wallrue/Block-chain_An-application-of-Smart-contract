@@ -31,6 +31,7 @@ II. <strong>How to run the application</strong>
   3. Thirdly, installing truffle by typing: <ins>npm install -g truffle</ins>. <br>After finishing, we will have truffle files in C:\Users\...\AppData\Roaming\npm
   4. Next, we open Ganade before typing <ins>truffle test</ins>. After that, we type <ins>truffle migrate --reset</ins> to complete building the contract. <br>If it is successful, a json file will appear on folder /build/contracts/
   5. Finally, we type <ins>npm run dev</ins> to run the application with smart contract. Then, we log in the metamask and done.
+  6. [Demo Video](https://www.youtube.com/watch?v=xNeEQrTokjI)
 
   **<strong>Notes:</strong> 
   * Error about not finding address: Click on metamask settings -> connected sites. Then, we connect metamask to the web
